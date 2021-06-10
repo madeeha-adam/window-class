@@ -1,0 +1,4 @@
+* Run command
+  #+begin_src bash
+  g++ -v main.cpp -lsfml-graphics -lsfml-window -lsfml-system && ./a.out
+  #+end_src
