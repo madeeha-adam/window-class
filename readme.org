@@ -1,4 +1,4 @@
 * Run command
   #+begin_src bash
-  g++ -v main.cpp -lsfml-graphics -lsfml-window -lsfml-system && ./a.out
+  g++ -v -std=c++11 main.cpp -lsfml-graphics -lsfml-window -lsfml-system && ./a.out
   #+end_src
